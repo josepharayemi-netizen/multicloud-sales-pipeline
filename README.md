@@ -4,6 +4,8 @@
 
 An interview-ready data engineering project that processes retail sales data with one reusable Python pipeline and deploys the same workload to AWS or Microsoft Azure.
 
+![Validated sales pipeline demonstration](docs/demo.svg)
+
 ## Business problem
 
 A retail company receives daily sales files from several branches. Leadership needs trustworthy KPIs without manually cleaning spreadsheets. This project validates transactions, rejects invalid records, calculates revenue and profit, loads curated data into SQL, and publishes summary metrics.
