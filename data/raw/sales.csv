@@ -1,0 +1,11 @@
+transaction_id,order_date,region,product,quantity,unit_price,unit_cost
+TX001,2026-08-01,Lagos,Laptop,2,850000,720000
+TX002,2026-08-01,Abuja,Monitor,3,240000,190000
+TX003,2026-08-02,Lagos,Keyboard,5,45000,28000
+TX004,2026-08-02,Port Harcourt,Cloud Subscription,4,150000,90000
+TX005,2026-08-03,Abuja,Laptop,1,920000,760000
+TX006,2026-08-03,Lagos,Mouse,10,18000,9000
+TX007,invalid-date,Kano,Monitor,2,210000,170000
+TX008,2026-08-04,Kano,Keyboard,-1,40000,25000
+TX009,2026-08-05,Port Harcourt,Cloud Subscription,6,150000,90000
+TX010,2026-08-05,Lagos,Monitor,2,235000,185000
