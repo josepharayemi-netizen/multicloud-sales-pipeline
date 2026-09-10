@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.db
+.terraform/
+*.tfstate*
+*.zip
+data/processed/*.csv
+!data/processed/.gitkeep
